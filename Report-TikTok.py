@@ -16,7 +16,7 @@ try:
     colorama.init(autoreset=colorama)
 #except
 except:
-    #pip install requests
+    #pip install colorama
     print('[-] pip install colorama')
 import re
 import time
